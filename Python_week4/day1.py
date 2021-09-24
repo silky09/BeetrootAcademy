@@ -19,11 +19,7 @@ the following text (capital letters “O” and “H” made out of “#” symb
 #   #
 """
 
-
-
 print()
-
-
 
 for row in range(7):
     for col in range(5):
