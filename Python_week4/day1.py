@@ -1,5 +1,8 @@
+"""print a message"""
+
 print("Welcome to MyFriends 1.0!")
 print()
+
 """
 Homework. Advanced level
 
